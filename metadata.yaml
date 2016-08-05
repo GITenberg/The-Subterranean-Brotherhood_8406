@@ -1,0 +1,25 @@
+_repo: The-Subterranean-Brotherhood_8406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisons'
+- !lcc 'HV'
+- GITenberg
+title: The Subterranean Brotherhood
+url: http://www.gutenberg.org/ebooks/8406
